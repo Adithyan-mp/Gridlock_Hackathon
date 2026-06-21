@@ -1,4 +1,4 @@
-# Intelligent Traffic Violation Analysis and Evidence Generation SystemAutomated Photo Identification and Classification for Traffic Violations Using Computer Vision
+# Intelligent Traffic Violation Analysis and Evidence Generation System
 
 ## Problem Statement
 
